@@ -1,2 +1,2 @@
 # graph-analytics
-Projects on graph data
+Projects on graph data analysis
